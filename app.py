@@ -24,7 +24,7 @@ app = Flask(__name__)
 def start():
 
     result_dict = {
-        'city' : 'Edmonton',
+        'city' : 'Calgary',
         'country' : 'Canada'
     }
 
