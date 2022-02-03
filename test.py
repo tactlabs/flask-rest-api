@@ -16,7 +16,7 @@ Source:
 
 def startpy():
     
-    print("Hey Toronto")
+    print("Hey Calgary")
 
 
 if __name__ == '__main__':
