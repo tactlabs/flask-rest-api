@@ -25,7 +25,7 @@ def start():
 
     result_dict = {
         'city' : 'Trichy', 
-        'country' : 'India'
+        'country' : 'Canada'
     }
 
     return result_dict
