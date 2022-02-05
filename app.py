@@ -13,8 +13,11 @@ Source:
 # Import necessary modules
 from flask import Flask, render_template, request
 import json
+from flask_cors import CORS
 
 app = Flask(__name__)
+
+cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 '''
     Possible urls:
