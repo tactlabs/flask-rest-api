@@ -11,7 +11,7 @@ Source:
 '''
 
 # Import necessary modules
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 import json
 from flask_cors import CORS
 
@@ -23,15 +23,23 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
     Possible urls:
     http://0.0.0.0:5003/
 '''
+
+
 @app.route('/')
 def start():
 
-    result_dict = {
-        'city' : 'Madurai', 
-        'country' : 'india'
-    }
+    f = open('result.json', "r")
+    
+    # Reading from file
+    data = json.loads(f.read())
 
-    return result_dict
+
+    # result_dict = {
+    #     'city' : 'Madurai', 
+    #     'country' : 'india'
+    # }
+    
+    return jsonify(data)
 
 if __name__== "__main__":
     
