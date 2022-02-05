@@ -1,0 +1,606 @@
+{
+    "error_code": 0,
+    "error_message": "NONE",
+    "result": [
+        {
+            "address": "48 Sandra St W",
+            "city": "Oshawa",
+            "community": "Lakeview",
+            "house_id": 1,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house1-1.jpg",
+                "http://54.205.76.109:9000/first/house1-2.jpg",
+                "http://54.205.76.109:9000/first/house1-3.jpg",
+                "http://54.205.76.109:9000/first/house1-4.jpg",
+                "http://54.205.76.109:9000/first/house1-5.jpg",
+                "http://54.205.76.109:9000/first/house1-6.jpg",
+                "http://54.205.76.109:9000/first/house1-7.jpg",
+                "http://54.205.76.109:9000/first/house1-8.jpg"
+            ],
+            "postal_code": "L1H3W2",
+            "price": 500000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 1,
+                "rooms": 5
+            }
+        },
+        {
+            "address": "2226 Dufferin St",
+            "city": "Toronto",
+            "community": "Caledonia-Fairbank",
+            "house_id": 2,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house2-1.jpg",
+                "http://54.205.76.109:9000/first/house2-2.jpg",
+                "http://54.205.76.109:9000/first/house2-3.jpg",
+                "http://54.205.76.109:9000/first/house2-4.jpg",
+                "http://54.205.76.109:9000/first/house2-5.jpg",
+                "http://54.205.76.109:9000/first/house2-6.jpg",
+                "http://54.205.76.109:9000/first/house2-7.jpg",
+                "http://54.205.76.109:9000/first/house2-8.jpg"
+            ],
+            "postal_code": "M6E3S1",
+            "price": 500600,
+            "room_details": {
+                "bathroom": 0,
+                "bedroom": 4,
+                "house_detail_id": 2,
+                "rooms": 4
+            }
+        },
+        {
+            "address": "61 Halsey Ave",
+            "city": "Toronto",
+            "community": "O'Connor-Parkview",
+            "house_id": 3,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house3-1.jpg",
+                "http://54.205.76.109:9000/first/house3-2.jpg",
+                "http://54.205.76.109:9000/first/house3-3.jpg",
+                "http://54.205.76.109:9000/first/house3-4.jpg",
+                "http://54.205.76.109:9000/first/house3-5.jpg",
+                "http://54.205.76.109:9000/first/house3-6.jpg",
+                "http://54.205.76.109:9000/first/house3-7.jpg",
+                "http://54.205.76.109:9000/first/house3-8.jpg"
+            ],
+            "postal_code": "M4B1A6",
+            "price": 600000,
+            "room_details": {
+                "bathroom": 4,
+                "bedroom": 3,
+                "house_detail_id": 3,
+                "rooms": 9
+            }
+        },
+        {
+            "address": "53 Liberty St N",
+            "city": "Clarington",
+            "community": "Bowmanville",
+            "house_id": 4,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house4-1.jpg",
+                "http://54.205.76.109:9000/first/house4-2.jpg",
+                "http://54.205.76.109:9000/first/house4-3.jpg",
+                "http://54.205.76.109:9000/first/house4-4.jpg",
+                "http://54.205.76.109:9000/first/house4-5.jpg",
+                "http://54.205.76.109:9000/first/house4-6.jpg",
+                "http://54.205.76.109:9000/first/house4-7.jpg",
+                "http://54.205.76.109:9000/first/house4-8.jpg"
+            ],
+            "postal_code": "L1C2L8",
+            "price": 500012,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 3,
+                "house_detail_id": 4,
+                "rooms": 8
+            }
+        },
+        {
+            "address": "372 Adelaide Ave W",
+            "city": "Oshawa",
+            "community": "McLaughlin",
+            "house_id": 5,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house5-1.jpg",
+                "http://54.205.76.109:9000/first/house5-2.jpg",
+                "http://54.205.76.109:9000/first/house5-3.jpg",
+                "http://54.205.76.109:9000/first/house5-4.jpg",
+                "http://54.205.76.109:9000/first/house5-5.jpg",
+                "http://54.205.76.109:9000/first/house5-6.jpg",
+                "http://54.205.76.109:9000/first/house5-7.jpg",
+                "http://54.205.76.109:9000/first/house5-8.jpg"
+            ],
+            "postal_code": "L1J2R6",
+            "price": 450000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 5,
+                "rooms": 11
+            }
+        },
+        {
+            "address": "813 Black Cherry Dr",
+            "city": "Oshawa",
+            "community": "Taunton",
+            "house_id": 6,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house6-1.jpg",
+                "http://54.205.76.109:9000/first/house6-2.jpg",
+                "http://54.205.76.109:9000/first/house6-3.jpg",
+                "http://54.205.76.109:9000/first/house6-4.jpg",
+                "http://54.205.76.109:9000/first/house6-5.jpg",
+                "http://54.205.76.109:9000/first/house6-6.jpg",
+                "http://54.205.76.109:9000/first/house6-7.jpg",
+                "http://54.205.76.109:9000/first/house6-8.jpg"
+            ],
+            "postal_code": "L1K0P3",
+            "price": 300000,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 2,
+                "house_detail_id": 6,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "30 Plantation Crt",
+            "city": "Whitby",
+            "community": "Williamsburg",
+            "house_id": 7,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house7-1.jpg",
+                "http://54.205.76.109:9000/first/house7-2.jpg",
+                "http://54.205.76.109:9000/first/house7-3.jpg",
+                "http://54.205.76.109:9000/first/house7-4.jpg",
+                "http://54.205.76.109:9000/first/house7-5.jpg",
+                "http://54.205.76.109:9000/first/house7-6.jpg",
+                "http://54.205.76.109:9000/first/house7-7.jpg",
+                "http://54.205.76.109:9000/first/house7-8.jpg"
+            ],
+            "postal_code": "E5476436",
+            "price": 504500,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 3,
+                "house_detail_id": 7,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "331 Bluejay Cres",
+            "city": "Oshawa",
+            "community": "Eastdale",
+            "house_id": 8,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house8-1.jpg",
+                "http://54.205.76.109:9000/first/house8-2.jpg",
+                "http://54.205.76.109:9000/first/house8-3.jpg",
+                "http://54.205.76.109:9000/first/house8-4.jpg",
+                "http://54.205.76.109:9000/first/house8-5.jpg",
+                "http://54.205.76.109:9000/first/house8-6.jpg",
+                "http://54.205.76.109:9000/first/house8-7.jpg",
+                "http://54.205.76.109:9000/first/house8-8.jpg"
+            ],
+            "postal_code": "L1G6X4",
+            "price": 700000,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 4,
+                "house_detail_id": 8,
+                "rooms": 9
+            }
+        },
+        {
+            "address": "4 Pottle Lane",
+            "city": "Ajax",
+            "community": "South East",
+            "house_id": 9,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house9-1.jpg",
+                "http://54.205.76.109:9000/first/house9-2.jpg",
+                "http://54.205.76.109:9000/first/house9-3.jpg",
+                "http://54.205.76.109:9000/first/house9-4.jpg",
+                "http://54.205.76.109:9000/first/house9-5.jpg",
+                "http://54.205.76.109:9000/first/house9-6.jpg",
+                "http://54.205.76.109:9000/first/house9-7.jpg",
+                "http://54.205.76.109:9000/first/house9-8.jpg"
+            ],
+            "postal_code": "L1S7S4",
+            "price": 500600,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 9,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "644 Annapolis Ave",
+            "city": "Oshawa",
+            "community": "McLaughlin",
+            "house_id": 10,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house10-1.jpg",
+                "http://54.205.76.109:9000/first/house10-2.jpg",
+                "http://54.205.76.109:9000/first/house10-3.jpg",
+                "http://54.205.76.109:9000/first/house10-4.jpg",
+                "http://54.205.76.109:9000/first/house10-5.jpg",
+                "http://54.205.76.109:9000/first/house10-6.jpg",
+                "http://54.205.76.109:9000/first/house10-7.jpg",
+                "http://54.205.76.109:9000/first/house10-8.jpg"
+            ],
+            "postal_code": "E5477028",
+            "price": 800000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 10,
+                "rooms": 6
+            }
+        },
+        {
+            "address": "956 Kicking Horse Path",
+            "city": "Oshawa",
+            "community": "McLaughlin",
+            "house_id": 11,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house11-1.jpg",
+                "http://54.205.76.109:9000/first/house11-2.jpg",
+                "http://54.205.76.109:9000/first/house11-3.jpg",
+                "http://54.205.76.109:9000/first/house11-4.jpg",
+                "http://54.205.76.109:9000/first/house11-5.jpg",
+                "http://54.205.76.109:9000/first/house11-6.jpg",
+                "http://54.205.76.109:9000/first/house11-7.jpg",
+                "http://54.205.76.109:9000/first/house11-8.jpg"
+            ],
+            "postal_code": "L1J0B4",
+            "price": 800000,
+            "room_details": {
+                "bathroom": 5,
+                "bedroom": 5,
+                "house_detail_id": 11,
+                "rooms": 10
+            }
+        },
+        {
+            "address": "Unit D23 - 108 Finch Ave W",
+            "city": "North York",
+            "community": "Newtonbrook West",
+            "house_id": 12,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house12-1.jpg",
+                "http://54.205.76.109:9000/first/house12-2.jpg",
+                "http://54.205.76.109:9000/first/house12-3.jpg",
+                "http://54.205.76.109:9000/first/house12-4.jpg",
+                "http://54.205.76.109:9000/first/house12-5.jpg",
+                "http://54.205.76.109:9000/first/house12-6.jpg",
+                "http://54.205.76.109:9000/first/house12-7.jpg",
+                "http://54.205.76.109:9000/first/house12-8.jpg"
+            ],
+            "postal_code": "M2N6W6",
+            "price": 500400,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 3,
+                "house_detail_id": 12,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "Unit 100 - 2500 Hill Rise Crt",
+            "city": "Oshawa",
+            "community": "Windfields",
+            "house_id": 13,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house13-1.jpg",
+                "http://54.205.76.109:9000/first/house13-2.jpg",
+                "http://54.205.76.109:9000/first/house13-3.jpg",
+                "http://54.205.76.109:9000/first/house13-4.jpg",
+                "http://54.205.76.109:9000/first/house13-5.jpg",
+                "http://54.205.76.109:9000/first/house13-6.jpg",
+                "http://54.205.76.109:9000/first/house13-7.jpg",
+                "http://54.205.76.109:9000/first/house13-8.jpg"
+            ],
+            "postal_code": "L1L0C1",
+            "price": 605000,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 3,
+                "house_detail_id": 13,
+                "rooms": 5
+            }
+        },
+        {
+            "address": "Unit 4 - 1720 Simcoe St N",
+            "city": "Oshawa",
+            "community": "Samac",
+            "house_id": 14,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house14-1.jpg",
+                "http://54.205.76.109:9000/first/house14-2.jpg",
+                "http://54.205.76.109:9000/first/house14-3.jpg",
+                "http://54.205.76.109:9000/first/house14-4.jpg",
+                "http://54.205.76.109:9000/first/house14-5.jpg",
+                "http://54.205.76.109:9000/first/house14-6.jpg",
+                "http://54.205.76.109:9000/first/house14-7.jpg",
+                "http://54.205.76.109:9000/first/house14-8.jpg"
+            ],
+            "postal_code": "L1G0C3",
+            "price": 405000,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 3,
+                "house_detail_id": 14,
+                "rooms": 5
+            }
+        },
+        {
+            "address": "547 Phillip Murray Ave",
+            "city": "Oshawa",
+            "community": "Lakeview",
+            "house_id": 15,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house15-1.jpg",
+                "http://54.205.76.109:9000/first/house15-2.jpg",
+                "http://54.205.76.109:9000/first/house15-3.jpg",
+                "http://54.205.76.109:9000/first/house15-4.jpg",
+                "http://54.205.76.109:9000/first/house15-5.jpg",
+                "http://54.205.76.109:9000/first/house15-6.jpg",
+                "http://54.205.76.109:9000/first/house15-7.jpg",
+                "http://54.205.76.109:9000/first/house15-8.jpg"
+            ],
+            "postal_code": "L1J1H7",
+            "price": 300000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 15,
+                "rooms": 10
+            }
+        },
+        {
+            "address": "272 Huron St",
+            "city": "Oshawa",
+            "community": "Central",
+            "house_id": 16,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house16-1.jpg",
+                "http://54.205.76.109:9000/first/house16-2.jpg",
+                "http://54.205.76.109:9000/first/house16-3.jpg",
+                "http://54.205.76.109:9000/first/house16-4.jpg",
+                "http://54.205.76.109:9000/first/house16-5.jpg",
+                "http://54.205.76.109:9000/first/house16-6.jpg",
+                "http://54.205.76.109:9000/first/house16-7.jpg",
+                "http://54.205.76.109:9000/first/house16-8.jpg"
+            ],
+            "postal_code": "L1H5E7",
+            "price": 480000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 2,
+                "house_detail_id": 16,
+                "rooms": 8
+            }
+        },
+        {
+            "address": "2 Pilot St",
+            "city": "Scarborough",
+            "community": "West Hill",
+            "house_id": 17,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house17-1.jpg",
+                "http://54.205.76.109:9000/first/house17-2.jpg",
+                "http://54.205.76.109:9000/first/house17-3.jpg",
+                "http://54.205.76.109:9000/first/house17-4.jpg",
+                "http://54.205.76.109:9000/first/house17-5.jpg",
+                "http://54.205.76.109:9000/first/house17-6.jpg",
+                "http://54.205.76.109:9000/first/house17-7.jpg",
+                "http://54.205.76.109:9000/first/house17-8.jpg"
+            ],
+            "postal_code": "M1E2C5",
+            "price": 705000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 17,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "Unit 104 - 35 Strangford Lane",
+            "city": "Scarborough",
+            "community": "Clairlea-Birchmount",
+            "house_id": 18,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house18-1.jpg",
+                "http://54.205.76.109:9000/first/house18-2.jpg",
+                "http://54.205.76.109:9000/first/house18-3.jpg",
+                "http://54.205.76.109:9000/first/house18-4.jpg",
+                "http://54.205.76.109:9000/first/house18-5.jpg",
+                "http://54.205.76.109:9000/first/house18-6.jpg",
+                "http://54.205.76.109:9000/first/house18-7.jpg",
+                "http://54.205.76.109:9000/first/house18-8.jpg"
+            ],
+            "postal_code": "M1L0E5",
+            "price": 704500,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 2,
+                "house_detail_id": 18,
+                "rooms": 5
+            }
+        },
+        {
+            "address": "74 Mintwood Dr",
+            "city": "North York",
+            "community": "Bayview Woods-Steeles",
+            "house_id": 19,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house19-1.jpg",
+                "http://54.205.76.109:9000/first/house19-2.jpg",
+                "http://54.205.76.109:9000/first/house19-3.jpg",
+                "http://54.205.76.109:9000/first/house19-4.jpg",
+                "http://54.205.76.109:9000/first/house19-5.jpg",
+                "http://54.205.76.109:9000/first/house19-6.jpg",
+                "http://54.205.76.109:9000/first/house19-7.jpg",
+                "http://54.205.76.109:9000/first/house19-8.jpg"
+            ],
+            "postal_code": "M2M3A7",
+            "price": 500000,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 4,
+                "house_detail_id": 19,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "81 Magpie Way",
+            "city": "Whitby",
+            "community": "Blue Grass Meadows",
+            "house_id": 20,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house20-1.jpg",
+                "http://54.205.76.109:9000/first/house20-2.jpg",
+                "http://54.205.76.109:9000/first/house20-3.jpg",
+                "http://54.205.76.109:9000/first/house20-4.jpg",
+                "http://54.205.76.109:9000/first/house20-5.jpg",
+                "http://54.205.76.109:9000/first/house20-6.jpg",
+                "http://54.205.76.109:9000/first/house20-7.jpg",
+                "http://54.205.76.109:9000/first/house20-8.jpg"
+            ],
+            "postal_code": "E5478598",
+            "price": 600000,
+            "room_details": {
+                "bathroom": 4,
+                "bedroom": 3,
+                "house_detail_id": 20,
+                "rooms": 8
+            }
+        },
+        {
+            "address": "561 Simcoe St N",
+            "city": "Oshawa",
+            "community": "O'Neill",
+            "house_id": 21,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house21-1.jpg",
+                "http://54.205.76.109:9000/first/house21-2.jpg",
+                "http://54.205.76.109:9000/first/house21-3.jpg",
+                "http://54.205.76.109:9000/first/house21-4.jpg",
+                "http://54.205.76.109:9000/first/house21-5.jpg",
+                "http://54.205.76.109:9000/first/house21-6.jpg",
+                "http://54.205.76.109:9000/first/house21-7.jpg",
+                "http://54.205.76.109:9000/first/house21-8.jpg"
+            ],
+            "postal_code": "L1G4V1",
+            "price": 954000,
+            "room_details": {
+                "bathroom": 3,
+                "bedroom": 3,
+                "house_detail_id": 21,
+                "rooms": 10
+            }
+        },
+        {
+            "address": "14 Pinegrove Ave",
+            "city": "Scarborough",
+            "community": "Birchcliffe-Cliffside",
+            "house_id": 22,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house22-1.jpg",
+                "http://54.205.76.109:9000/first/house22-2.jpg",
+                "http://54.205.76.109:9000/first/house22-3.jpg",
+                "http://54.205.76.109:9000/first/house22-4.jpg",
+                "http://54.205.76.109:9000/first/house22-5.jpg",
+                "http://54.205.76.109:9000/first/house22-6.jpg",
+                "http://54.205.76.109:9000/first/house22-7.jpg",
+                "http://54.205.76.109:9000/first/house22-8.jpg"
+            ],
+            "postal_code": "M1N2G4",
+            "price": 866000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 3,
+                "house_detail_id": 22,
+                "rooms": 7
+            }
+        },
+        {
+            "address": "29 Albert St S",
+            "city": "Brock",
+            "community": "Sunderland",
+            "house_id": 23,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house23-1.jpg",
+                "http://54.205.76.109:9000/first/house23-2.jpg",
+                "http://54.205.76.109:9000/first/house23-3.jpg",
+                "http://54.205.76.109:9000/first/house23-4.jpg",
+                "http://54.205.76.109:9000/first/house23-5.jpg",
+                "http://54.205.76.109:9000/first/house23-6.jpg",
+                "http://54.205.76.109:9000/first/house23-7.jpg",
+                "http://54.205.76.109:9000/first/house23-8.jpg"
+            ],
+            "postal_code": "40203762",
+            "price": 456000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 4,
+                "house_detail_id": 23,
+                "rooms": 8
+            }
+        },
+        {
+            "address": "752 Douglas St",
+            "city": "Oshawa",
+            "community": "Lakeview",
+            "house_id": 24,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house24-1.jpg",
+                "http://54.205.76.109:9000/first/house24-2.jpg",
+                "http://54.205.76.109:9000/first/house24-3.jpg",
+                "http://54.205.76.109:9000/first/house24-4.jpg",
+                "http://54.205.76.109:9000/first/house24-5.jpg",
+                "http://54.205.76.109:9000/first/house24-6.jpg",
+                "http://54.205.76.109:9000/first/house24-7.jpg",
+                "http://54.205.76.109:9000/first/house24-8.jpg"
+            ],
+            "postal_code": "L1H5C7",
+            "price": 789000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 2,
+                "house_detail_id": 24,
+                "rooms": 6
+            }
+        },
+        {
+            "address": "183 Conant St",
+            "city": "Oshawa",
+            "community": "Lakeview",
+            "house_id": 25,
+            "house_pics": [
+                "http://54.205.76.109:9000/first/house25-1.jpg",
+                "http://54.205.76.109:9000/first/house25-2.jpg",
+                "http://54.205.76.109:9000/first/house25-3.jpg",
+                "http://54.205.76.109:9000/first/house25-4.jpg",
+                "http://54.205.76.109:9000/first/house25-5.jpg",
+                "http://54.205.76.109:9000/first/house25-6.jpg",
+                "http://54.205.76.109:9000/first/house25-7.jpg",
+                "http://54.205.76.109:9000/first/house25-8.jpg"
+            ],
+            "postal_code": "L1H3R9",
+            "price": 500000,
+            "room_details": {
+                "bathroom": 2,
+                "bedroom": 2,
+                "house_detail_id": 25,
+                "rooms": 4
+            }
+        }
+]
+}

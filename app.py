@@ -28,7 +28,7 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
 @app.route('/')
 def start():
 
-    f = open('result.json', "r")
+    f = open('result1.json', "r")
     
     # Reading from file
     data = json.loads(f.read())
