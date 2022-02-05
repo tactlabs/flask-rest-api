@@ -498,7 +498,7 @@
                 "http://54.205.76.109:9000/first/house21-8.jpg"
             ],
             "postal_code": "L1G4V1",
-            "price": 954000,
+            "price": 954000, 
             "room_details": {
                 "bathroom": 3,
                 "bedroom": 3,
