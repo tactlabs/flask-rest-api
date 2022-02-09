@@ -44,6 +44,7 @@ def start():
 @app.route('/get/<house_id>')
 def get_single_house(house_id):
 
+    print(house_id)
     f = open('result1.json', "r")
     
     # Reading from file
@@ -56,18 +57,22 @@ def get_single_house(house_id):
     # }
     data_list=[]
     result = data["result"]
-    house_id = int(house_id) - 1
-    for i in result[house_id].items():
-        # if i["house_id"] == house_id:
+    house_id = int(house_id)
+
+
+    for i in result:
+        if i["house_id"] == house_id:
      
-            print(i[1])
-            data1 = {
-                i[0] : i[1]
-            }
+            # print(i)
+            # data1 = {
+            #     i[0] : i[1]
+            # }
             # print(data1)
-            data_list.append(data1)
+            data_list.append(i)
     
     return jsonify(data_list)
+
+
 
 if __name__== "__main__":
     
