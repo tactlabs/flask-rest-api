@@ -41,6 +41,34 @@ def start():
     
     return jsonify(data)
 
+@app.route('/get/<house_id>')
+def get_single_house(house_id):
+
+    f = open('result1.json', "r")
+    
+    # Reading from file
+    data = json.loads(f.read())
+
+    # print(data["result"])
+    # result_dict = {
+    #     'city' : 'Madurai', 
+    #     'country' : 'india'
+    # }
+    data_list=[]
+    result = data["result"]
+    house_id = int(house_id) - 1
+    for i in result[house_id].items():
+        # if i["house_id"] == house_id:
+     
+            print(i[1])
+            data1 = {
+                i[0] : i[1]
+            }
+            # print(data1)
+            data_list.append(data1)
+    
+    return jsonify(data_list)
+
 if __name__== "__main__":
     
     app.run(
