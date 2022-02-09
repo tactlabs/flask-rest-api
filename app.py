@@ -38,7 +38,7 @@ def start():
     #     'city' : 'Madurai', 
     #     'country' : 'india'
     # }
-    
+      
     return jsonify(data)
 
 @app.route('/get/<house_id>')
